@@ -1,0 +1,8 @@
+### Requirements for code ###
+pytest
+flask
+nltk
+firebase_admin
+allennlp==1.0.0
+allennlp-models==1.0.0
+firebase-admin
