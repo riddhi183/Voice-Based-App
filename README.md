@@ -1,4 +1,4 @@
-# SplitUp
+# SplitUp-A Voice based Expense Adder
 ***An expense splitting hybrid app powered by Natural Language Processing and developed using React Native with Expo*** 
 
 <img src="images/logo.jpeg" alt="logo" width="250" align="right"/>
